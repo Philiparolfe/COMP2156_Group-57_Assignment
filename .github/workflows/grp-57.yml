@@ -1,0 +1,17 @@
+name: Group 57 Assignment
+
+on:
+  push:
+    branches: [ 101067688-Philip ]
+  pull_request:
+    branches: [ 101067688-Philip ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run a one-line script
+        run: echo Hello from Group 57 
