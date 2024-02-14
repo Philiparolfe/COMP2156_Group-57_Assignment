@@ -2,9 +2,9 @@ name: Group 57 Assignment
 
 on:
   push:
-    branches: [ 101067688-Philip ]
+    branches: [ main ]
   pull_request:
-    branches: [ 101067688-Philip ]
+    branches: [ main ]
 
 jobs:
   build:
