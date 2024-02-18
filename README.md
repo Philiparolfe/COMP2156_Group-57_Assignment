@@ -1,6 +1,6 @@
 ## Group Assignment - COMP 2156 – DevOps for System Administration
 ##### (Group 57) 
-###### Philip Rolfe,
+###### Ishwar Singh,
 ### Assignment Details
 
 1. **Group Formation:** Make a group of 4 members only. No group of less than 3 or more than 4 people will be allowed. After creating the group start working on your group assignment. (02 Point)
