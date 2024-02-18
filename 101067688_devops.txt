@@ -1,0 +1,6 @@
+In that course, we learned all about DevOps practices, which are super important for making workplaces more efficient. 
+We dove into using procedures, protocols, and the best ways of doing things in the industry. The cool part? 
+We got to try everything out ourselves with hands-on activities and standard toolkits. We learned how to 
+analyze and use different methods for developer operations. And not only that, but we also tackled tricky 
+business problems by getting really good at handling different types of data like JSON, and YAML. 
+Plus, we became proficient at using DevOps tools like Ansible and Git. It was an exciting journey!
